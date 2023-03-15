@@ -42,7 +42,7 @@
 
     <div id="reasons">
       <div class="container">
-        <h2 style="color: red; margin-bottom: 20px;">WHY GYMMBUDDY</h2>
+        <h2 style="color: red; margin-bottom: 20px">WHY GYMMBUDDY</h2>
         <div class="row">
           <div class="col">
             <img src="/checklist.png" alt="" />
@@ -64,7 +64,7 @@
 
 <script>
 export default {
-  name: "LandingPage"
+  name: "LandingPage",
 };
 </script>
 
